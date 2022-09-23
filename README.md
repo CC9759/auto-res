@@ -1,0 +1,2 @@
+# auto-res
+Extension Project
